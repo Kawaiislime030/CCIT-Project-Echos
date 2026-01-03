@@ -1,0 +1,4 @@
+repository "CCIT Project@tj_kawaiislime030@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

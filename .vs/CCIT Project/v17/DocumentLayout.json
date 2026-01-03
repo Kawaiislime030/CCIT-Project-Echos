@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Hub\\Project\\CCIT Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|e:\\unity hub\\project\\ccit project\\assets\\enemy_skeletonanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy_skeletonanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|e:\\unity hub\\project\\ccit project\\assets\\scripts\\player\\playeranimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\skeletongroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\skeletongroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\skeletonbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\skeletonbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|e:\\unity hub\\project\\ccit project\\assets\\skeletonattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\skeletonattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\skeletonmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\skeletonmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\skeletonidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\skeletonidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|E:\\Unity Hub\\Project\\CCIT Project\\assets\\enemystatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC98262-D7B8-27F6-928F-B63EAC4150FB}|Assembly-CSharp.csproj|solutionrelative:assets\\enemystatemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Entity.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Entity.cs",
+              "RelativeToolTip": "Assets\\Entity.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:34:52.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerAnimationTriggers.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Scripts\\Player\\PlayerAnimationTriggers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimationTriggers.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Scripts\\Player\\PlayerAnimationTriggers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimationTriggers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T05:27:13.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy_SkeletonAnimationTriggers.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Enemy_SkeletonAnimationTriggers.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy_SkeletonAnimationTriggers.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Enemy_SkeletonAnimationTriggers.cs",
+              "RelativeToolTip": "Assets\\Enemy_SkeletonAnimationTriggers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T05:19:23.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SkeletonGroundedState.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonGroundedState.cs",
+              "RelativeDocumentMoniker": "Assets\\SkeletonGroundedState.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonGroundedState.cs",
+              "RelativeToolTip": "Assets\\SkeletonGroundedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:28:16.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:46:55.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SkeletonBattleState.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonBattleState.cs",
+              "RelativeDocumentMoniker": "Assets\\SkeletonBattleState.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonBattleState.cs",
+              "RelativeToolTip": "Assets\\SkeletonBattleState.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T04:06:52.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T12:46:19.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy_Skeleton.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Enemy_Skeleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy_Skeleton.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\Enemy_Skeleton.cs",
+              "RelativeToolTip": "Assets\\Enemy_Skeleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:26:59.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyState.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\EnemyState.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyState.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\EnemyState.cs",
+              "RelativeToolTip": "Assets\\EnemyState.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAASwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:25:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SkeletonAttackState.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\SkeletonAttackState.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonAttackState.cs",
+              "RelativeToolTip": "Assets\\SkeletonAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T05:02:16.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SkeletonMoveState.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\SkeletonMoveState.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonMoveState.cs",
+              "RelativeToolTip": "Assets\\SkeletonMoveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:49:55.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SkeletonIdleState.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\SkeletonIdleState.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\SkeletonIdleState.cs",
+              "RelativeToolTip": "Assets\\SkeletonIdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:50:14.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnemyStateMachine.cs",
+              "DocumentMoniker": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\EnemyStateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemyStateMachine.cs",
+              "ToolTip": "E:\\Unity Hub\\Project\\CCIT Project\\Assets\\EnemyStateMachine.cs",
+              "RelativeToolTip": "Assets\\EnemyStateMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T14:18:52.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
