@@ -15,7 +15,7 @@ TagManager:
   - Enemy
   - 
   - 
-  - 
+  - OneWayPlatform
   - 
   - 
   - 
@@ -46,6 +46,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 1181952217
+    locked: 0
+  - name: Platform
+    uniqueID: 3148519191
     locked: 0
   - name: Enemy
     uniqueID: 1843238599

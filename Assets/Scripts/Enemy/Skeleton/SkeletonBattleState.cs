@@ -10,9 +10,9 @@ public class SkeletonBattleState : EnemyState
     private Enemy_Skeleton enemy;
     private int moveDir;
 
-    public SkeletonBattleState(Enemy _enemyBase, EnemyStateMachine _stateMachine, string _animBoolName, Enemy_Skeleton enemy) : base(_enemyBase, _stateMachine, _animBoolName)
+    public SkeletonBattleState(Enemy _enemyBase, EnemyStateMachine _stateMachine, string _animBoolName, Enemy_Skeleton _enemy) : base(_enemyBase, _stateMachine, _animBoolName)
     {
-        this.enemy = enemy;
+        this.enemy = _enemy;
     }
 
     public override void Enter()
@@ -61,7 +61,6 @@ public class SkeletonBattleState : EnemyState
             enemy.lastTimeAttacked = Time.time;
             return true;
         }
-        Debug.Log("Attack on Cooldown");
         return false;
 
     }

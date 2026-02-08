@@ -8,6 +8,7 @@ public class Entity : MonoBehaviour
     public Animator anim { get; private set; }
     public Rigidbody2D rb { get; private set; }
     public EntityFX fx { get; private set; }
+    public CharacterStats stats { get; private set; }
     #endregion
 
 
@@ -39,6 +40,7 @@ public class Entity : MonoBehaviour
         fx = GetComponent<EntityFX>();
         anim = GetComponentInChildren<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        stats = GetComponent<CharacterStats>();
     }
 
     protected virtual void Update()
@@ -46,7 +48,7 @@ public class Entity : MonoBehaviour
 
     }
 
-    public virtual void Damage()
+    public virtual void DamageEffect()
     {
         fx.StartCoroutine("FlashFX");
         StartCoroutine("HitKnockback");
