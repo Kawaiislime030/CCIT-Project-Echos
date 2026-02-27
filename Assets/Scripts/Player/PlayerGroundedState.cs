@@ -28,10 +28,11 @@ public class PlayerGroundedState : PlayerState
         if (Input.GetKeyDown(KeyCode.Mouse0) || Input.GetKeyDown(KeyCode.J))
             stateMachine.ChangeState(player.primaryAttack);
 
-        if (!player.IsGroundDetected())
+        if (!player.IsGroundDetected() && !player.IsPlatformDetected())
             stateMachine.ChangeState(player.airState);
 
-        if (Input.GetKeyDown(KeyCode.Space) && player.IsGroundDetected())
+        // Have a interest bug on Platform will JUMP AND JUMP
+        if (Input.GetKeyDown(KeyCode.Space) && player.IsGroundDetected() || player.IsPlatformDetected())
             stateMachine.ChangeState(player.jumpState);
     }
 }

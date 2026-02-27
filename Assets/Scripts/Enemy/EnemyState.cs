@@ -31,11 +31,13 @@ public class EnemyState
         triggerCalled = false;
         rb = enemyBase.rb;
         enemyBase.anim.SetBool(animBoolName, true);
+
     }
 
     public virtual void Exit()
     {
         enemyBase.anim.SetBool(animBoolName, false);
+        enemyBase.AssignLastAnimName(animBoolName);
     }
 
     public virtual void AnimationFinishTrigger() 

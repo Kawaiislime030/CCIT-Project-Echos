@@ -25,6 +25,7 @@ public class Enemy : Entity
     [HideInInspector] public float lastTimeAttacked;
 
     public EnemyStateMachine stateMachine { get; private set; }
+    public string lastAnimBoolname { get; private set; }
 
     protected override void Awake()
     {
@@ -40,6 +41,14 @@ public class Enemy : Entity
 
     }
 
+    public virtual void AssignLastAnimName(string _animBoolName)
+    {
+        lastAnimBoolname = _animBoolName;
+    }
+
+
+
+    #region Counter Attack Window
     public virtual void OpenCounterAttackWindow() 
     {
         canBeStunned = true;
@@ -50,6 +59,8 @@ public class Enemy : Entity
         canBeStunned = false;
         counterImage.SetActive(false);
     }
+
+    #endregion
 
     public virtual bool CanBeStunned()
     {

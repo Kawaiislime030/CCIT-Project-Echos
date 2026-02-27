@@ -43,6 +43,7 @@ public class Player : Entity
 
     public PlayerPrimaryAttackState primaryAttack { get; private set; }
     public PlayerCounterAttackState counterAttack { get; private set; }
+    public PlayerDeadState deadState { get; private set; }
 
 
 
@@ -63,6 +64,8 @@ public class Player : Entity
 
         primaryAttack = new PlayerPrimaryAttackState(this, stateMachine, "Attack");
         counterAttack = new PlayerCounterAttackState(this, stateMachine, "CounterAttack");
+        
+        deadState = new PlayerDeadState(this, stateMachine, "Die");
     }
 
     protected override void Start()
@@ -111,7 +114,12 @@ public class Player : Entity
 
         }
     }
-    
-    
+
+    public override void Die()
+    {
+        base.Die();
+
+        stateMachine.ChangeState(deadState);
+    }
    
 }
