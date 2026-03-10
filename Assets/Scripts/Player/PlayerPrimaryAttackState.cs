@@ -18,6 +18,10 @@ public class PlayerPrimaryAttackState : PlayerState
     public override void Enter()
     {
         base.Enter();
+
+        AudioManager.instance.PlaySFX(9,null); //atack sound effect
+
+
         xInput = Input.GetAxisRaw("Horizontal");
 
         if (comboCounter > 2 || Time.time >= lastTimeAttacked + comboWindow)

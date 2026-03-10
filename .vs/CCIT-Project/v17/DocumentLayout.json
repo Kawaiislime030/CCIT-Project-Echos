@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "E:\\Github\\CCIT-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|e:\\github\\ccit-project\\assets\\scripts\\enemy\\hedgehog\\enemy_hedgehog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\enemy_hedgehog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|e:\\github\\ccit-project\\assets\\scripts\\stats\\character stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\character stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\ui\\healthbar_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\healthbar_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\character stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\character stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\ui\\ui_stat slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_stat slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\ui\\ui_in game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_in game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\stats\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\stats\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\stat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\enemy_hedgehoganimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\enemy_hedgehoganimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogstunnedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogstunnedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehoggroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehoggroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\healthbar_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\healthbar_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,6 +41,74 @@
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerjumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playerprimaryattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerprimaryattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playercounterattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercounterattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playeranimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehoggroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehoggroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\skeleton\\skeletongroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\skeletongroundedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\skeleton\\skeletonbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\skeletonbattlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogstunnedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogstunnedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\enemy_hedgehog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\enemy_hedgehog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogmovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,16 +123,16 @@
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerairstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playerprimaryattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerprimaryattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallaxbackground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\CCIT-Project\\Assets\\Character Stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Character Stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Github\\CCIT-Project\\Assets\\HealthBar_UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HealthBar_UI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,141 +142,252 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Character Stats.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Character Stats.cs",
-              "RelativeDocumentMoniker": "Assets\\Character Stats.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Character Stats.cs",
-              "RelativeToolTip": "Assets\\Character Stats.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAADgv1AAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T09:05:30.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "HedgehogDeadState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Title": "HealthBar_UI.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\HealthBar_UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\HealthBar_UI.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\HealthBar_UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\HealthBar_UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:24:29.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Entity.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAIwIUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T08:41:13.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Enemy_Hedgehog.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBQAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:15:49.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T13:45:09.846Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Enemy_HedgehogAnimationTriggers.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA/AAAAAAAAAA==",
+              "Title": "UI_In Game.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI_In Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_In Game.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI_In Game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_In Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:09:36.087Z",
+              "WhenOpened": "2026-03-10T13:43:21.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Character Stats.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\Character Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\Character Stats.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\Character Stats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\Character Stats.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAnwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T12:40:44.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\EnemyStats.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\EnemyStats.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T07:10:39.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T06:05:32.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI_Stat Slot.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI_Stat Slot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_Stat Slot.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI_Stat Slot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_Stat Slot.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAIwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T11:55:00.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:39:46.559Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "HedgehogStunnedState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogStunnedState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogStunnedState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogStunnedState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogStunnedState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Title": "Stat.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\Stat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\Stat.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\Stat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\Stat.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:33:50.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HedgehogMoveState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogMoveState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogMoveState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogMoveState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogMoveState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:23:05.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HedgehogIdleState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:13:41.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T05:03:06.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "HedgehogBattleState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogBattleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogBattleState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogBattleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogBattleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:18:11.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HedgehogAttackState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:20:46.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy_HedgehogAnimationTriggers.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:09:36.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerJumpState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerJumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerJumpState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerJumpState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerJumpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T06:12:07.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PlayerMoveState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMoveState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerMoveState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMoveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:10:49.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerPrimaryAttackState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerPrimaryAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerPrimaryAttackState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerPrimaryAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerPrimaryAttackState.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:10:51.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerCounterAttackState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerCounterAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCounterAttackState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerCounterAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCounterAttackState.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T05:14:25.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:11:48.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlayerAnimationTriggers.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerAnimationTriggers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimationTriggers.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerAnimationTriggers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimationTriggers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:04:27.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlayerManager.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerManager.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\PlayerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:24:11.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "HedgehogGroundedState.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogGroundedState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogGroundedState.cs",
               "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogGroundedState.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogGroundedState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:15:08.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T09:15:08.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
+              "Title": "SkeletonGroundedState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonGroundedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonGroundedState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonGroundedState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonGroundedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:27:14.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SkeletonBattleState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonBattleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T05:26:04.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "HealthBar_UI.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\HealthBar_UI.cs",
               "RelativeDocumentMoniker": "Assets\\HealthBar_UI.cs",
@@ -233,31 +400,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HedgehogAttackState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "HedgehogStunnedState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogStunnedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogStunnedState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogStunnedState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogStunnedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:20:46.616Z"
+              "WhenOpened": "2026-02-27T09:33:50.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "HedgehogBattleState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogBattleState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogBattleState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogBattleState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogBattleState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Enemy_Hedgehog.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBQAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T09:18:11.85Z"
+              "WhenOpened": "2026-02-27T09:15:49.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
+              "Title": "HedgehogDeadState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:24:29.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Character Stats.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Character Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\Character Stats.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Character Stats.cs",
+              "RelativeToolTip": "Assets\\Character Stats.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAADgv1AAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:05:30.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwIUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:41:13.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T07:10:39.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HedgehogMoveState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogMoveState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogMoveState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogMoveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:23:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HedgehogIdleState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T09:13:41.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "PlayerGroundedState.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerGroundedState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerGroundedState.cs",
@@ -269,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "PlayerIdleState.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerIdleState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerIdleState.cs",
@@ -281,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "PlayerAirState.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerAirState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAirState.cs",
@@ -293,31 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PlayerMoveState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerMoveState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMoveState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerMoveState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMoveState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T07:10:49.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "PlayerPrimaryAttackState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerPrimaryAttackState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerPrimaryAttackState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerPrimaryAttackState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerPrimaryAttackState.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCcAAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T07:10:51.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "ParallaxBackground.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\ParallaxBackground.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ParallaxBackground.cs",

@@ -12,11 +12,15 @@ public class PlayerMoveState : PlayerGroundedState
     public override void Enter()
     {
         base.Enter();
+
+        AudioManager.instance.PlaySFX(0, null); //walk sound effect
     }
 
     public override void Exit()
     {
         base.Exit();
+
+        AudioManager.instance.StopSFX(0); //stop walk sound effect
     }
 
     public override void Update()

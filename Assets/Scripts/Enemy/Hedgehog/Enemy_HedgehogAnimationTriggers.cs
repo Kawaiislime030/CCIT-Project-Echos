@@ -17,11 +17,13 @@ public class Enemy_HedgehogAnimationTriggers : MonoBehaviour
 
         foreach (var hit in colliders)
         {
-            PlayerStats _target = hit.GetComponent<PlayerStats>();
-            if (_target != null)
+            if (hit.GetComponent<Player>() != null)
             {
-                Debug.Log("Enemy hit player, applying damage");
+                PlayerStats _target = hit.GetComponent<PlayerStats>();
+
+                AudioManager.instance.PlaySFX(14, null);
                 enemy.stats.DoDamage(_target);
+
             }
         }
 
