@@ -3,20 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Platform
+  - NPC
+  - Boss
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - 
   - Water
   - UI
+  - W2_Platform
+  - W2_Background
   - Player
+  - NPC
   - Enemy
-  - 
-  - 
-  - 
-  - 
+  - Boss
   - 
   - 
   - 
@@ -42,17 +45,17 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 1102954877
+    uniqueID: 2405305567
     locked: 0
   - name: Ground
-    uniqueID: 1181952217
+    uniqueID: 1794071159
     locked: 0
-  - name: Enemy
-    uniqueID: 1843238599
+  - name: Enemies
+    uniqueID: 478325073
+    locked: 0
+  - name: NPC
+    uniqueID: 3713825525
     locked: 0
   - name: Player
-    uniqueID: 2012800975
-    locked: 0
-  - name: DisplayBackground
-    uniqueID: 340528429
+    uniqueID: 1332171121
     locked: 0

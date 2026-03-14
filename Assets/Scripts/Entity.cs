@@ -8,6 +8,9 @@ public class Entity : MonoBehaviour
     public Animator anim { get; private set; }
     public Rigidbody2D rb { get; private set; }
     public EntityFX fx { get; private set; }
+    public CharacterStats stats { get; private set; }
+
+    public CapsuleCollider2D cd { get; private set; }
     #endregion
 
 
@@ -23,12 +26,15 @@ public class Entity : MonoBehaviour
     [SerializeField] protected float groundCheckDistance;
     [SerializeField] protected Transform wallCheck;
     [SerializeField] protected float wallCheckDistance;
+
     [SerializeField] protected LayerMask whatIsGround;
+    [SerializeField] protected LayerMask whatIsPlatform;
 
 
     public int facingDir { get; private set; } = 1;
     protected bool facingRight = true;
 
+    public System.Action onFlipped;
     protected virtual void Awake()
     {
 
@@ -39,6 +45,8 @@ public class Entity : MonoBehaviour
         fx = GetComponent<EntityFX>();
         anim = GetComponentInChildren<Animator>();
         rb = GetComponent<Rigidbody2D>();
+        stats = GetComponent<CharacterStats>();
+        cd = GetComponent<CapsuleCollider2D>();
     }
 
     protected virtual void Update()
@@ -46,7 +54,7 @@ public class Entity : MonoBehaviour
 
     }
 
-    public virtual void Damage()
+    public virtual void DamageEffect()
     {
         fx.StartCoroutine("FlashFX");
         StartCoroutine("HitKnockback");
@@ -85,7 +93,16 @@ public class Entity : MonoBehaviour
     #region Collision
 
 
-    public virtual bool IsGroundDetected() => Physics2D.Raycast(groundCheck.position, Vector2.down, groundCheckDistance, whatIsGround);
+    public virtual bool IsGroundDetected()
+    {
+        return Physics2D.Raycast(groundCheck.position, Vector2.down, groundCheckDistance, whatIsGround);
+    }
+
+    public virtual bool IsPlatformDetected()
+    {
+        return Physics2D.Raycast(groundCheck.position, Vector2.down, groundCheckDistance, whatIsPlatform);
+    }
+
     public virtual bool IsWallDetected() => Physics2D.Raycast(wallCheck.position, Vector2.right * facingDir, wallCheckDistance, whatIsGround);
     protected virtual void OnDrawGizmos()
     {
@@ -100,6 +117,9 @@ public class Entity : MonoBehaviour
         facingDir = facingDir * -1;
         facingRight = !facingRight;
         transform.Rotate(0, 180, 0);
+
+        if(onFlipped != null)
+            onFlipped();
     }
 
     public virtual void FlipController(float _x)
@@ -110,4 +130,11 @@ public class Entity : MonoBehaviour
             Flip();
     }
     #endregion
+
+    public virtual void Die()
+    {
+        
+    }
+
+
 }
