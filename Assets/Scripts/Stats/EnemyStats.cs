@@ -32,7 +32,7 @@ public class EnemyStats : CharacterStats
 
     private IEnumerator DieCoroutine()
     {
-        yield return new WaitForSeconds(3); // adjust to match animation length
+        yield return new WaitForSeconds(1.5f); // adjust to match animation length
         Destroy(gameObject);
     }
 

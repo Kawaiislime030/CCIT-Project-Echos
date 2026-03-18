@@ -16,7 +16,7 @@ public enum StatType
     armor,
     evasion
 }
-public class CharacterStats : MonoBehaviour
+public class CharacterStats : MonoBehaviour, ISaveManager
 {
 
     public int level = 1;
@@ -47,6 +47,8 @@ public class CharacterStats : MonoBehaviour
     public int currentHealth;
 
     public System.Action onHealthChanged;
+    public System.Action onStatsChanged;   
+    public System.Action onXPChanged;     
 
 
     protected virtual void Start()
@@ -170,6 +172,9 @@ public class CharacterStats : MonoBehaviour
         currentXP -= xpToNextLevel;
         statPoints += 5; // give 5 points per level, adjust as needed
         Debug.Log("Level Up! You are now level " + level + " and have " + statPoints + " stat points.");
+        onStatsChanged?.Invoke(); 
+        onXPChanged?.Invoke();
+        SaveManager.instance.SaveGame();
     }
 
     public void AddStatPoint(StatType type)
@@ -187,6 +192,8 @@ public class CharacterStats : MonoBehaviour
                     currentHealth = GetMaxHealthValue();
                     onHealthChanged?.Invoke(); // notify health UI
                 }
+                onStatsChanged?.Invoke();
+
 
                 //Notify all stat slots to refresh
                 foreach (UI_StatSlot slot in FindObjectsOfType<UI_StatSlot>())
@@ -203,13 +210,61 @@ public class CharacterStats : MonoBehaviour
     public void GainXP(int amount)
     {
         currentXP += amount;
+        onXPChanged?.Invoke();
 
         if (currentXP >= xpToNextLevel)
         {
             LevelUp();
         }
+
+        SaveManager.instance.SaveGame();
     }
 
+    public void SaveData(ref GameData _data)
+    {
+        _data.level = level;
+        _data.currentXP = currentXP;
+        _data.xpToNextLevel = xpToNextLevel;
+        _data.statPoints = statPoints;
+
+        _data.strength = strength.GetValue();
+        _data.agility = agillity.GetValue();
+        _data.intelligence = intelligence.GetValue();
+        _data.vitality = vitality.GetValue();
+
+        _data.damage = damage.GetValue();
+        _data.critChance = critChance.GetValue();
+        _data.critPower = critPower.GetValue();
+        _data.maxHealth = maxHealth.GetValue();
+        _data.armor = armor.GetValue();
+        _data.evasion = evasion.GetValue();
+
+    }
+    public void LoadData(GameData _data)
+    {
+        level = _data.level;
+        currentXP = _data.currentXP;
+        xpToNextLevel = _data.xpToNextLevel;
+        statPoints = _data.statPoints;
+
+        strength.SetDefaultValue(_data.strength);
+        agillity.SetDefaultValue(_data.agility);
+        intelligence.SetDefaultValue(_data.intelligence);
+        vitality.SetDefaultValue(_data.vitality);
+
+        damage.SetDefaultValue(_data.damage);
+        critChance.SetDefaultValue(_data.critChance);
+        critPower.SetDefaultValue(_data.critPower);
+        maxHealth.SetDefaultValue(_data.maxHealth);
+        armor.SetDefaultValue(_data.armor);
+        evasion.SetDefaultValue(_data.evasion);
+
+        currentHealth = GetMaxHealthValue();
+
+        onStatsChanged?.Invoke();
+        onXPChanged?.Invoke();
+
+    }
 
 }
 
