@@ -32,4 +32,5 @@ public class UI_MainMenu : MonoBehaviour
         Debug.Log("Exit Game");
         // Exit Function
     }
+
 }

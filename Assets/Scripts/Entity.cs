@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class Entity : MonoBehaviour
@@ -15,7 +14,7 @@ public class Entity : MonoBehaviour
 
 
     [Header("Knockback info")]
-    [SerializeField] protected Vector2 knockbackDirection;
+    [SerializeField] protected Vector2 knockbackPower;
     [SerializeField] protected float knockbackDuration;
     protected bool isKnocked;
 
@@ -30,7 +29,7 @@ public class Entity : MonoBehaviour
     [SerializeField] protected LayerMask whatIsGround;
     [SerializeField] protected LayerMask whatIsPlatform;
 
-
+    public int knockbackDir { get; private set; }
     public int facingDir { get; private set; } = 1;
     protected bool facingRight = true;
 
@@ -54,7 +53,7 @@ public class Entity : MonoBehaviour
 
     }
 
-    public virtual void DamageEffect()
+    public virtual void DamageImpact()
     {
         fx.StartCoroutine("FlashFX");
         StartCoroutine("HitKnockback");
@@ -62,14 +61,31 @@ public class Entity : MonoBehaviour
         Debug.Log(gameObject.name + " took damage.");
     }
 
+    public virtual void SetupKnockbackDir(Transform _damageDirection)
+    {
+        if (_damageDirection.position.x > transform.position.x)
+            knockbackDir = -1;
+        else if(_damageDirection.position.x < transform.position.x)
+            knockbackDir = 1;
+    }
+    
+
+        
+    public void SetupKnockbackPower(Vector2 _knockbackpower) => knockbackPower = _knockbackpower;
     protected virtual IEnumerator HitKnockback()
     {
         isKnocked = true;
 
-        rb.velocity = new Vector2(knockbackDirection.x * -facingDir, knockbackDirection.y);
+        rb.velocity = new Vector2(knockbackPower.x * knockbackDir, knockbackPower.y);
 
         yield return new WaitForSeconds(knockbackDuration);
         isKnocked = false;
+        SetupZeroKnockbackPower();
+    }
+
+    protected virtual void SetupZeroKnockbackPower()
+    {
+
     }
     #region Velocity
     public void SetZeroVelocity()

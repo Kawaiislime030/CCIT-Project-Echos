@@ -18,6 +18,7 @@ public enum StatType
 }
 public class CharacterStats : MonoBehaviour, ISaveManager
 {
+    private EntityFX fx;
 
     public int level = 1;
     public int currentXP = 0;
@@ -55,6 +56,8 @@ public class CharacterStats : MonoBehaviour, ISaveManager
     {
         critPower.SetDefaultValue(150);
         currentHealth = GetMaxHealthValue();
+
+        fx = GetComponent<EntityFX>();
     }
 
     private void Update()
@@ -65,6 +68,8 @@ public class CharacterStats : MonoBehaviour, ISaveManager
     {
         if (TargetCanAvoidAttack(_targetStats))
             return;
+
+        _targetStats.GetComponent<Entity>().SetupKnockbackDir(transform);
 
         int totalDamage = damage.GetValue() + strength.GetValue();
 
@@ -101,6 +106,9 @@ public class CharacterStats : MonoBehaviour, ISaveManager
         {
             onHealthChanged();
         }
+
+       if (_damage > 0)
+          fx.CreatePopUpText(_damage.ToString());
     }
 
     protected virtual void Die()
@@ -108,6 +116,7 @@ public class CharacterStats : MonoBehaviour, ISaveManager
         // Handle character death (e.g., play animation, disable character, etc.)
         //throw new NotImplementedException();
     }
+    public void KillEntity() => Die();
     private int CheckTargetArmor(CharacterStats _targetStats, int totalDamage)
     {
         totalDamage -= _targetStats.armor.GetValue();

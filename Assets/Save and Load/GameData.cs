@@ -1,5 +1,7 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 [System.Serializable]
@@ -25,6 +27,13 @@ public class GameData
     public int armor;
     public int evasion;
 
+
+    public SerializableDictionary<string, bool> checkpoints;
+    public string closestCheckpointId;
+
+    public SerializableDictionary<string, float> volumeSettings;
+
+
     // Constructor sets defaults
     public GameData()
     {
@@ -44,6 +53,11 @@ public class GameData
         maxHealth = 100;
         armor = 0;
         evasion = 0;
+
+        closestCheckpointId = string.Empty;
+        checkpoints = new SerializableDictionary<string, bool>();
+
+        volumeSettings = new SerializableDictionary<string, float>();
     }
 }
 

@@ -6,7 +6,7 @@ using UnityEngine;
 public class Enemy : Entity
 {
 
-    [SerializeField] protected LayerMask whatIsPlayer;
+    [SerializeField] public LayerMask whatIsPlayer;
 
     [Header("Stunned info")]
     public float stunDuration;

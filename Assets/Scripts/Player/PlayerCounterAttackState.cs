@@ -25,28 +25,44 @@ public class PlayerCounterAttackState : PlayerState
     {
         base.Update();
 
+        player.SetZeroVelocity();
+
         Collider2D[] colliders = Physics2D.OverlapCircleAll(player.attackCheck.position, player.attackCheckRadius);
 
         foreach (var hit in colliders)
         {
+            if (hit.GetComponent<BulletController>() != null)
+            {
+                hit.GetComponent<BulletController>().FlipArrow();
+                SuccessfulCounterAttack();
+            }
             if (hit.GetComponent<Enemy>() != null)
             {
-                if(hit.GetComponent<Enemy>().CanBeStunned())
+          
+                if (hit.GetComponent<Enemy>().CanBeStunned())
                 {
-                    stateTimer = 10;
-                    player.anim.SetBool("SuccessfulCounterAttack", true);
+                    SuccessfulCounterAttack();
                     EnemyStats _target = hit.GetComponent<EnemyStats>();
 
                     player.stats.DoDamage(_target);
 
                 }
+
+               
             }
-                
+
 
         }
 
-        if(stateTimer < 0 || triggerCalled)
+        if (stateTimer < 0 || triggerCalled)
             stateMachine.ChangeState(player.idleState);
-
     }
+        private void SuccessfulCounterAttack()
+    
+
+        {
+         stateTimer = 10; //any value bigger than 1
+         player.anim.SetBool("SuccessfulCounterAttack", true);
+         }
 }
+

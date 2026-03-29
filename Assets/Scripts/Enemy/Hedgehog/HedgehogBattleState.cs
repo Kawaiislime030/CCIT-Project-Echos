@@ -19,6 +19,8 @@ public class HedgehogBattleState : EnemyState
         base.Enter();
 
         player = PlayerManager.instance.player.transform;
+        
+        
     }
 
     public override void Update()
