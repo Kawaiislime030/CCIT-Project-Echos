@@ -7,7 +7,8 @@ public class Player : Entity
 
     [Header("Attack Details")]
     public float[] attackMovement;
-    
+    public float counterAttackDuration = .2f;
+
 
     [Header("Move Info")]
     public float moveSpeed = 12f;
@@ -35,13 +36,14 @@ public class Player : Entity
 
     public PlayerJumpState jumpState { get; private set; }
     public PlayerAirState airState { get; private set; }
-
     public PlayerWallSlideState wallSlide { get; private set; }
 
     public PlayerWallJumpState wallJump { get; private set; }
     public PlayerDashState dashState { get; private set; }
 
     public PlayerPrimaryAttackState primaryAttack { get; private set; }
+    public PlayerCounterAttackState counterAttack { get; private set; }
+    public PlayerDeadState deadState { get; private set; }
 
 
 
@@ -61,6 +63,9 @@ public class Player : Entity
         wallJump = new PlayerWallJumpState(this, stateMachine, "Jump");
 
         primaryAttack = new PlayerPrimaryAttackState(this, stateMachine, "Attack");
+        counterAttack = new PlayerCounterAttackState(this, stateMachine, "CounterAttack");
+        
+        deadState = new PlayerDeadState(this, stateMachine, "Die");
     }
 
     protected override void Start()
@@ -76,11 +81,15 @@ public class Player : Entity
     
     protected override void Update()
     {
+        if(Time.timeScale == 0)
+            return;
+
         base.Update();
 
         stateMachine.currentState.Update();
         
         CheckForDashInput();
+
 
         
     }
@@ -109,7 +118,18 @@ public class Player : Entity
 
         }
     }
-    
-    
-   
+
+    public override void Die()
+    {
+        base.Die();
+
+        stateMachine.ChangeState(deadState);
+    }
+
+    protected override void SetupZeroKnockbackPower()
+    {
+        knockbackPower = new Vector2(0, 0);
+    }
+
+
 }

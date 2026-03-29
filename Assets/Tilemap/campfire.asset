@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: campfire
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 21300000, guid: 24418dbcc280d6145b9d2c196a5a888d, type: 3}
+  - {fileID: 21300000, guid: 09fc0f164ee950d4081c7e116f08fc74, type: 3}
+  - {fileID: 21300000, guid: 0ffbfe6221682c34fb5ad2da584a5960, type: 3}
+  - {fileID: 21300000, guid: 87283fbd8d0dc5c4ea88312de164287c, type: 3}
+  - {fileID: 21300000, guid: 1d1a829923ce7c747bbe4ecbc68507c0, type: 3}
+  - {fileID: 21300000, guid: 03d58915d2233144681b2ef7aae9c179, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

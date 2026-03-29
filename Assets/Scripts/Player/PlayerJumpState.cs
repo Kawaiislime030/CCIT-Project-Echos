@@ -12,6 +12,8 @@ public class PlayerJumpState : PlayerState
     {
         base.Enter();
 
+        AudioManager.instance.PlaySFX(5, null); //jump sound effect
+
         rb.velocity = new Vector2(rb.velocity.x, player.jumpForce);
     }
 
