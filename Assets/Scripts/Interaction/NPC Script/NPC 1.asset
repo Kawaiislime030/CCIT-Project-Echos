@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760059cf5b1bb5149ae86fcc3aa6247e, type: 3}
+  m_Name: NPC 1
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - 'This forest has great timber. Kingdom needs it for new walls. Hurry! '
+  - "We know\u2026 but if we don't, we will have no food to eat."
+  - The ancient tree is berserk! slime everywhere! My axe is stuck!
+  - "Angry? We're just following orders\u2026"
+  - That wildman is terrifying. One punch we done.
+  - Kind? Then why doesn't he just say so? We're scared too.
+  - Chopping all day, hands blistered. Wife asks why I'm home late.
+  - Suffering for what? The bosses don't care.
+  - 'If we stop chopping. We will get Punishment. '
+  - "\u2026I'll talk to the captain."
+  typingSpeed: 0.03
+  voiceSound: {fileID: 0}
+  voicePitch: 1
+  endDialogueLines: 
+  autoProgressDelay: 1.5
+  choices: []

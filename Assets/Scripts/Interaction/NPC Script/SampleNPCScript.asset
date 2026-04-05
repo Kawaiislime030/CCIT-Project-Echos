@@ -32,7 +32,7 @@ MonoBehaviour:
   - "Just remember this: opportunity doesn't knock twice in the desert. Sometimes
     it doesn't knock at all\u2014it slithers right past you while you're deciding. "
   - Now go. Before more snakes come.
-  typingSpeed: 0.01
+  typingSpeed: 0.02
   voiceSound: {fileID: 0}
   voicePitch: 1
   endDialogueLines: 0000000000000000000000000001

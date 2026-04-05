@@ -12,15 +12,18 @@ public class sceneChanger : MonoBehaviour
     
     // Boss reference
     private GameObject boss;
-    
+
+    [SerializeField] UI_FadeScreen fadeScreen;
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!isActive) return;
         
         if (other.CompareTag("Player"))
         {
+            fadeScreen.FadeOut();
             Debug.Log("Player entered portal!");
-            SceneManager.LoadScene(sceneToLoad);
+            StartCoroutine(LoadSceneAfterEndScreen());
         }
     }
 
@@ -74,7 +77,14 @@ public class sceneChanger : MonoBehaviour
         
         Debug.Log("Portal appeared after 3 seconds!");
     }
-    
+    private IEnumerator LoadSceneAfterEndScreen()
+    {
+        // 等待 EndScreen 動畫時間，例如 3 秒
+        yield return new WaitForSeconds(3f);
+
+        SceneManager.LoadScene(sceneToLoad);
+    }
+
     // Optional: Manual activation method
     public void ActivatePortal()
     {

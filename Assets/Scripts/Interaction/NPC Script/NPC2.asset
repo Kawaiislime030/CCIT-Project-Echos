@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760059cf5b1bb5149ae86fcc3aa6247e, type: 3}
+  m_Name: NPC2
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - "I'm strong enough to push down a whole tree, but every time soldiers show up,
+    I just hide\u2026 I'm scared I'll turn into a monster."
+  - You are right... I never saw myself that way. Thanks.
+  - But my slime is sticky and gross. Everyone saw my slime run away. I hate it!
+  - Really? Then I will try it on soldiers' axes!
+  - The forest is so quiet. I just hear the wind and birds. Now hear axe noises.
+    I can't sleep.
+  - "Together? \u2026Okay. I trust you."
+  - The ancient tree tell me I was strong. But I always felt I wasn't enough.
+  - "Hmm\u2026 I'll go talk to them."
+  - If I'd stood up sooner, would the forest be okay now?
+  - "Yeah\u2026 starting today."
+  typingSpeed: 0.03
+  voiceSound: {fileID: 0}
+  voicePitch: 1
+  endDialogueLines: 
+  autoProgressDelay: 1.5
+  choices: []

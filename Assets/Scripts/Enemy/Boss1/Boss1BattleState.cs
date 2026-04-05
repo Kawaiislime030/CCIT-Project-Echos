@@ -51,6 +51,11 @@ public class Boss1BattleState : EnemyState
     public override void Exit()
     {
         base.Exit();
+        if (triggerCalled)
+        {
+            stateMachine.ChangeState(enemy.battleState); 
+        }
+
     }
 
     private bool CanAttack()

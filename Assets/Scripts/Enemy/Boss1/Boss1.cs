@@ -11,13 +11,15 @@ public class Boss1 : Enemy
     public Boss1RoarState roarState { get; private set; }
     public Boss1DeadState deadState { get; private set; }
     public Boss1BattleState battleState { get; private set; }
-    public Boss1Bullet bulletState { get; private set; }
+    public Boss1BulletState bulletState { get; private set; }
     #endregion
 
 
     public float roarDuration = 3f;
     public GameObject roarEffect;
 
+    [SerializeField] private GameObject bulletPrefab;
+    [SerializeField] private Transform shootPoint;
 
 
     protected override void Awake()
@@ -27,15 +29,14 @@ public class Boss1 : Enemy
 
         idleState = new Boss1IdleState(this, stateMachine, "Idle", this);
         roarState = new Boss1RoarState(this, stateMachine, "Roar", this);
-        deadState = new Boss1DeadState(this, stateMachine, "Idle", this);
+        deadState = new Boss1DeadState(this, stateMachine, "Die", this);
         battleState = new Boss1BattleState(this, stateMachine, "Attack", this);
-        bulletState = new Boss1Bullet(this, stateMachine, "Bullet", this);
+        bulletState = new Boss1BulletState(this, stateMachine, "Bullet", this);
     }
 
     protected override void Start()
     {
         base.Start();
-
         stateMachine.Initialize(idleState);
     }
     public override void Die()
@@ -44,10 +45,15 @@ public class Boss1 : Enemy
         stateMachine.ChangeState(deadState);
     }
 
-    public void Shooting()
+    public void ShootBullet()
     {
-        //float y = Random.
+        Vector2 dirToPlayer = (PlayerManager.instance.player.transform.position - shootPoint.position).normalized;
+        GameObject bullet = Instantiate(bulletPrefab, shootPoint.position, Quaternion.identity);
+        bullet.GetComponent<BossBullet>().Setup(dirToPlayer.x > 0 ? 1 : -1); 
     }
+
+
+
     public void StartBattle()
     {
         stateMachine.Initialize(battleState);
