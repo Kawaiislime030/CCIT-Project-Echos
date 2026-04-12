@@ -25,18 +25,18 @@ MonoBehaviour:
   - I'm sorry to the ancient tree... my power is not strong enough...
   - Stay or leave? It doesn't matter to me now. I've lost hope for this forest.
   - If you can stop them, go for it...
-  typingSpeed: 0.03
+  typingSpeed: 0.02
   voiceSound: {fileID: 0}
   voicePitch: 1
   endDialogueLines: 
-  autoProgressDelay: 1.5
+  autoProgressDelay: 2
   choices:
   - dialogueIndex: 2
     choices:
     - Why don't you resist with force?
     - You should talk to the soldiers peacefully.
     - That's none of my business.
-    nextDialogueIndexes: 040000000400000004000000
+    nextDialogueIndexes: 030000000300000003000000
     choicePoints: 030000000400000001000000
   - dialogueIndex: 5
     choices:

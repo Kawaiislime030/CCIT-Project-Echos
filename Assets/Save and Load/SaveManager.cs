@@ -77,13 +77,23 @@ public class SaveManager : MonoBehaviour
 
     public void SaveGame()
     {
-        foreach(ISaveManager saveManager in saveManagers)
+        
+        IEnumerable<ISaveManager> saveManagers = FindObjectsOfType<MonoBehaviour>().OfType<ISaveManager>();
+
+        foreach (ISaveManager saveManager in saveManagers)
         {
-            saveManager.SaveData(ref gameData);
+            
+            if (saveManager is MonoBehaviour mono)
+            {
+                
+                if (mono != null && mono.CompareTag("Player"))
+                {
+                    saveManager.SaveData(ref gameData);
+                }
+            }
         }
 
         dataHanler.Save(gameData);
-        
     }
 
     private void OnApplicationQuit()

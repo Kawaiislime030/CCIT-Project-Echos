@@ -23,7 +23,6 @@ MonoBehaviour:
   - We still need timbers for the queen...
   - Now everything is messed up... What should we do?
   - Got it... I think we've made the situation worse.
-  - Got it... I think we've made the situation worse.
   - To be honest, I regret being the one who cut those trees down.
   - We didn't intentionally cut them. No one wants to log in this beautiful forest.
   - These are orders from the queen. We need timbers for new walls.
@@ -37,11 +36,11 @@ MonoBehaviour:
   - Fine... I have to stay here and take care of those who are injured.
   - The ancient tree doesn't listen to anyone now. You should be careful.
   - Go stop the ancient tree. For the kingdom and the forest.
-  typingSpeed: 0.03
+  typingSpeed: 0.02
   voiceSound: {fileID: 0}
   voicePitch: 1
   endDialogueLines: 
-  autoProgressDelay: 1.5
+  autoProgressDelay: 2
   choices:
   - dialogueIndex: 8
     choices:
@@ -50,24 +49,17 @@ MonoBehaviour:
     - Leaving the forest might be safe.
     nextDialogueIndexes: 090000000900000009000000
     choicePoints: 010000000500000002000000
-  - dialogueIndex: 15
+  - dialogueIndex: 14
     choices:
     - The queen will understand.
     - Fighting the tree is the only way.
     - Still get timbers for the queen.
-    nextDialogueIndexes: 100000001000000010000000
+    nextDialogueIndexes: 0f0000000f0000000f000000
     choicePoints: 050000000400000001000000
-  - dialogueIndex: 15
-    choices:
-    - The queen will understand.
-    - Fighting the tree is the only way.
-    - Still get timbers for the queen.
-    nextDialogueIndexes: 100000001000000010000000
-    choicePoints: 050000000400000001000000
-  - dialogueIndex: 20
+  - dialogueIndex: 19
     choices:
     - It's okay to escape from danger.
     - Being a soldier means doing your best
     - You are such a bad soldier.
-    nextDialogueIndexes: 150000001500000015000000
+    nextDialogueIndexes: 140000001400000014000000
     choicePoints: 030000000500000001000000
