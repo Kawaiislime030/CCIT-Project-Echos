@@ -40,7 +40,7 @@ public class Boss1RoarState : EnemyState
                 boss.KnockbackPlayer();
             }
 
-            stateMachine.ChangeState(boss.idleState);
+            stateMachine.ChangeState(boss.battleState);
         }
     }
 

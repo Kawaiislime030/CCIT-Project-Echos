@@ -3,6 +3,7 @@ using UnityEngine;
 public class RoarEffect : MonoBehaviour
 {
     private Boss1 enemy => GetComponentInParent<Boss1>();
+
     private void AnimationTrigger()
     {
         enemy.AnimationFinishTrigger();
@@ -14,7 +15,8 @@ public class RoarEffect : MonoBehaviour
 
         foreach (var hit in colliders)
         {
-            if (hit.GetComponent<Player>() != null)
+           
+            if (hit.GetComponent<Player>() != null && !SafeZone.playerIsSafe)
             {
                 PlayerStats _target = hit.GetComponent<PlayerStats>();
 
@@ -24,4 +26,5 @@ public class RoarEffect : MonoBehaviour
         }
 
     }
+
 }

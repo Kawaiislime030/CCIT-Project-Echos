@@ -231,48 +231,52 @@ public class CharacterStats : MonoBehaviour, ISaveManager
 
     public void SaveData(ref GameData _data)
     {
-        _data.level = level;
-        _data.currentXP = currentXP;
-        _data.xpToNextLevel = xpToNextLevel;
-        _data.statPoints = statPoints;
+        if (CompareTag("Player"))
+        {
+            _data.level = level;
+            _data.currentXP = currentXP;
+            _data.xpToNextLevel = xpToNextLevel;
+            _data.statPoints = statPoints;
 
-        _data.strength = strength.GetValue();
-        _data.agility = agillity.GetValue();
-        _data.intelligence = intelligence.GetValue();
-        _data.vitality = vitality.GetValue();
+            _data.strength = strength.GetValue();
+            _data.agility = agillity.GetValue();
+            _data.intelligence = intelligence.GetValue();
+            _data.vitality = vitality.GetValue();
 
-        _data.damage = damage.GetValue();
-        _data.critChance = critChance.GetValue();
-        _data.critPower = critPower.GetValue();
-        _data.maxHealth = maxHealth.GetValue();
-        _data.armor = armor.GetValue();
-        _data.evasion = evasion.GetValue();
-
+            _data.damage = damage.GetValue();
+            _data.critChance = critChance.GetValue();
+            _data.critPower = critPower.GetValue();
+            _data.maxHealth = maxHealth.GetValue();
+            _data.armor = armor.GetValue();
+            _data.evasion = evasion.GetValue();
+        }
     }
     public void LoadData(GameData _data)
     {
-        level = _data.level;
-        currentXP = _data.currentXP;
-        xpToNextLevel = _data.xpToNextLevel;
-        statPoints = _data.statPoints;
+        if (CompareTag("Player"))
+        {
+            level = _data.level;
+            currentXP = _data.currentXP;
+            xpToNextLevel = _data.xpToNextLevel;
+            statPoints = _data.statPoints;
 
-        strength.SetDefaultValue(_data.strength);
-        agillity.SetDefaultValue(_data.agility);
-        intelligence.SetDefaultValue(_data.intelligence);
-        vitality.SetDefaultValue(_data.vitality);
+            strength.SetDefaultValue(_data.strength);
+            agillity.SetDefaultValue(_data.agility);
+            intelligence.SetDefaultValue(_data.intelligence);
+            vitality.SetDefaultValue(_data.vitality);
 
-        damage.SetDefaultValue(_data.damage);
-        critChance.SetDefaultValue(_data.critChance);
-        critPower.SetDefaultValue(_data.critPower);
-        maxHealth.SetDefaultValue(_data.maxHealth);
-        armor.SetDefaultValue(_data.armor);
-        evasion.SetDefaultValue(_data.evasion);
+            damage.SetDefaultValue(_data.damage);
+            critChance.SetDefaultValue(_data.critChance);
+            critPower.SetDefaultValue(_data.critPower);
+            maxHealth.SetDefaultValue(_data.maxHealth);
+            armor.SetDefaultValue(_data.armor);
+            evasion.SetDefaultValue(_data.evasion);
 
-        currentHealth = GetMaxHealthValue();
+            currentHealth = GetMaxHealthValue();
 
-        onStatsChanged?.Invoke();
-        onXPChanged?.Invoke();
-
+            onStatsChanged?.Invoke();
+            onXPChanged?.Invoke();
+        }
     }
 
 }

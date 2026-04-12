@@ -8,6 +8,7 @@ public class start_game : MonoBehaviour
     [SerializeField] UI_FadeScreen fadeScreen;
     public void StartButton()
     {
+        AudioManager.instance.PlaySFX(22, null);
         SaveManager.instance.DeleteSaveData();
         StartCoroutine(LoadSceneWithFadeEffect(1.5f));
     }

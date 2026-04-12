@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760059cf5b1bb5149ae86fcc3aa6247e, type: 3}
+  m_Name: W2NPC1
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - Well... looks like we have a newcomer for the treasure.
+  - 'Oh... you''re not here for the treasure? That''s rare. Let me tell you about
+    it. '
+  - 'This village has kept a secret about treasure in the desert for generations.
+    This village has kept a secret about treasure in the desert for generations. '
+  - 'Everyone here wants it... but everyone keeps talking rather than doing. '
+  - 'Suddenly, snakes started attacking the village. '
+  - 'Villagers are injured. Many have been sick for a long time. '
+  - 'The soldiers noticed. They''re here to protect us now. '
+  - 'They keep saying the snakes will leave one day... but it seems like it takes
+    forever. '
+  - 'I''m one of them... I kept saying ''tomorrow'' for years. Now tomorrow never
+    came.  '
+  - I see, but it seems impossible now...
+  - I don't know why we kept delaying... I have told myself 'today is the day.' and
+    'maybe tomorrow.' for many years...
+  - Now the situation changed. We cannot go for the treasure as the snakes everywhere.
+  - Well say... I don't think we got the time for this...
+  - If the soldiers take it, they can... as our punishment for doing nothing.
+  - If there is time, I would definitely act now.
+  - Tell me, kid... What will you do now that you know this secret?
+  - An honest answer... Glad to hear it.
+  - I've spent years wondering why no one ever went. Fear? Excuses? Who knows?
+  - But you seem different. You actually better than us. That's more than most of
+    us ever did.
+  - You're good to go, kid. Always remember... opportunities favor those who are
+    prepared, and those who are brave enough to take the first step.
+  typingSpeed: 0.05
+  voiceSound: {fileID: 0}
+  voicePitch: 1
+  endDialogueLines: 0000000000000000000000000001
+  autoProgressDelay: 2.5
+  choices:
+  - dialogueIndex: 0
+    choices:
+    - What treasure?
+    nextDialogueIndexes: 01000000
+    choicePoints: 00000000
+  - dialogueIndex: 8
+    choices:
+    - You should act now.
+    - You couldn't have known this would happen.
+    - Your village deserves this for waiting so long.
+    nextDialogueIndexes: 090000000900000009000000
+    choicePoints: 050000000300000001000000
+  - dialogueIndex: 11
+    choices:
+    - The snakes came because you waited too long.
+    - The soldiers might take the treasure first.
+    - It's not too late to fix this.
+    nextDialogueIndexes: 0c0000000c0000000c000000
+    choicePoints: 050000000400000002000000
+  - dialogueIndex: 15
+    choices:
+    - I'm not going for it.
+    - I'll do it later.
+    - I'll find the treasure immediately.
+    nextDialogueIndexes: 100000001000000010000000
+    choicePoints: 020000000100000005000000

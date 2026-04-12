@@ -121,16 +121,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 102900000, guid: fa6d938913225db4dac801b15622ee60, type: 3}
-        m_TargetAssemblyTypeName: 
+      - m_Target: {fileID: 102900000, guid: 15746cba12a39c14fa43ef43568e604d, type: 3}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: asdasd
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!1 &8784711611084758057
@@ -225,7 +225,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10.2
+  m_fontSize: 10.15
   m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 1

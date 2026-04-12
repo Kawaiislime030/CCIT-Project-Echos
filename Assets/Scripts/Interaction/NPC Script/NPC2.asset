@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760059cf5b1bb5149ae86fcc3aa6247e, type: 3}
+  m_Name: NPC2
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - Do not go forward, traveller...
+  - I used to live here, but since soldiers showed up, I just hide.
+  - I have warned them with my power. They just ignored...
+  - No matter what I do, they treat me like a weirdo... They're trying to kick me
+    out of the forest.
+  - I try so hard to protect the forest. Now they're destroying it...
+  - I'm losing confidence in what I did... Does my effort mean nothing at all?
+  - ...Maybe you're right. But it's hard to believe anymore.
+  - That's it... I'm leaving the forest as they wish.
+  - I'm sorry to the ancient tree... my power is not strong enough...
+  - Stay or leave? It doesn't matter to me now. I've lost hope for this forest.
+  - If you can stop them, go for it...
+  typingSpeed: 0.03
+  voiceSound: {fileID: 0}
+  voicePitch: 1
+  endDialogueLines: 
+  autoProgressDelay: 1.5
+  choices:
+  - dialogueIndex: 2
+    choices:
+    - Why don't you resist with force?
+    - You should talk to the soldiers peacefully.
+    - That's none of my business.
+    nextDialogueIndexes: 040000000400000004000000
+    choicePoints: 030000000400000001000000
+  - dialogueIndex: 5
+    choices:
+    - Your efforts are meaningful.
+    - At least you tried.
+    - One person can't protect the forest alone...
+    nextDialogueIndexes: 060000000600000006000000
+    choicePoints: 030000000200000000000000
+  - dialogueIndex: 8
+    choices:
+    - The forest needs you!
+    - Maybe there's been a misunderstanding. Let's talk to them.
+    - Changes are needed. Leave if you must.
+    nextDialogueIndexes: 090000000900000009000000
+    choicePoints: 040000000200000000000000

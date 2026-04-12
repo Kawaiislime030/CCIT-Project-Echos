@@ -31,7 +31,7 @@ public class BulletController : MonoBehaviour{
 			Destroy(gameObject);
 			//StuckInto(collision);
 		}
-		else if (collision.gameObject.layer == LayerMask.NameToLayer("W2_Ground"))
+		else if (collision.gameObject.layer == LayerMask.NameToLayer("Ground"))
 			//StuckInto(collision);
 			Destroy(gameObject);
 	}

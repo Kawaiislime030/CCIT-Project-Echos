@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760059cf5b1bb5149ae86fcc3aa6247e, type: 3}
+  m_Name: NPC 1
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - Stop right there! One more step forward and you're in danger!
+  - No matter what your purpose is, don't go forward. It's dangerous.
+  - The ancient tree has been going crazy for a long time...
+  - Step back... Otherwise, you'll get hurt.
+  - But you look like the one who came for help... That's great.
+  - The forest is dangerous because of the madness of the ancient tree.
+  - We tried to stop it, but all the soldiers are injured.
+  - We still need timbers for the queen...
+  - Now everything is messed up... What should we do?
+  - Got it... I think we've made the situation worse.
+  - Got it... I think we've made the situation worse.
+  - To be honest, I regret being the one who cut those trees down.
+  - We didn't intentionally cut them. No one wants to log in this beautiful forest.
+  - These are orders from the queen. We need timbers for new walls.
+  - Everyone wants to protect the kingdom... but not this way.
+  - Telling the queen to stop means betraying her, doesn't it?
+  - Never mind... The ancient tree went crazy because of us.
+  - It's harming so many things. My fellow soldiers are injured too.
+  - I was so afraid of it that I ran far away.
+  - I feel so guilty toward my mates... I couldn't save them from danger.
+  - Tell me... Am I a good soldier?
+  - Fine... I have to stay here and take care of those who are injured.
+  - The ancient tree doesn't listen to anyone now. You should be careful.
+  - Go stop the ancient tree. For the kingdom and the forest.
+  typingSpeed: 0.03
+  voiceSound: {fileID: 0}
+  voicePitch: 1
+  endDialogueLines: 
+  autoProgressDelay: 1.5
+  choices:
+  - dialogueIndex: 8
+    choices:
+    - Cut the trees secretly.
+    - You should stop the ancient tree.
+    - Leaving the forest might be safe.
+    nextDialogueIndexes: 090000000900000009000000
+    choicePoints: 010000000500000002000000
+  - dialogueIndex: 15
+    choices:
+    - The queen will understand.
+    - Fighting the tree is the only way.
+    - Still get timbers for the queen.
+    nextDialogueIndexes: 100000001000000010000000
+    choicePoints: 050000000400000001000000
+  - dialogueIndex: 15
+    choices:
+    - The queen will understand.
+    - Fighting the tree is the only way.
+    - Still get timbers for the queen.
+    nextDialogueIndexes: 100000001000000010000000
+    choicePoints: 050000000400000001000000
+  - dialogueIndex: 20
+    choices:
+    - It's okay to escape from danger.
+    - Being a soldier means doing your best
+    - You are such a bad soldier.
+    nextDialogueIndexes: 150000001500000015000000
+    choicePoints: 030000000500000001000000

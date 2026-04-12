@@ -36,6 +36,12 @@ public class PlayerCounterAttackState : PlayerState
                 hit.GetComponent<BulletController>().FlipArrow();
                 SuccessfulCounterAttack();
             }
+            if (hit.GetComponent<BossBullet>() != null)
+            {
+                hit.GetComponent<BossBullet>().FlipArrow(); // 你需要在 BossBullet.cs 裡寫 FlipArrow()
+                SuccessfulCounterAttack();
+            }
+
             if (hit.GetComponent<Enemy>() != null)
             {
           

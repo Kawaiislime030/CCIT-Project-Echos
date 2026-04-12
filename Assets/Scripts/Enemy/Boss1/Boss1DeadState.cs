@@ -14,16 +14,18 @@ public class Boss1DeadState : EnemyState
         base.AnimationFinishTrigger();
     }
 
+    
     public override void Enter()
     {
         base.Enter();
-
+        enemy.animator.SetTrigger("Dead");
     }
+
+    
 
     public override void Update()
     {
         base.Update();
-
         enemy.SetZeroVelocity();
     }
 }

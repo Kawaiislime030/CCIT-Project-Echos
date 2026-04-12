@@ -16,8 +16,8 @@ public class BossManager : MonoBehaviour
     {
         chatBoxUI.SetActive(true);
         chatBoxUI.GetComponent<ChatUI>().StartDialogue(new string[] {
-            "Test Message 1",
-            "Test Message 2"
+            "When you Ready, Press Mouse2"
+            
         }, OnIntroFinished);
     }
 

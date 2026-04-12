@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "E:\\Github\\CCIT-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1battlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1battlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\bossmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\bossmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|e:\\github\\ccit-project\\assets\\scripts\\enemy\\boss1\\roareffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1bulletstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1bulletstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1roarstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1roarstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\bosstriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\bosstriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\chatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\chatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\roareffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\roareffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,80 +35,160 @@
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\hintui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\bosstriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\bosstriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\bossmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\bossmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1deadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1deadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1battlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1battlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|e:\\github\\ccit-project\\assets\\scripts\\interaction\\signtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaction\\signtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\gameui\\gaming_start\\start_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui\\gaming_start\\start_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\enemy_hedgehoganimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\enemy_hedgehoganimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1roarstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1roarstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|e:\\github\\ccit-project\\assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\finalboss\\finalbossanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\finalboss\\finalbossanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|e:\\github\\ccit-project\\assets\\scripts\\enemy\\hedgehog\\hedgehogattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|e:\\github\\ccit-project\\assets\\scripts\\enemy\\skeleton\\enemy_skeletonanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\enemy_skeletonanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|e:\\github\\ccit-project\\assets\\scripts\\managers\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\popuptext fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\popuptext fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playerdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\ui\\ui_volume slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_volume slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\safezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\safezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\chatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\chatui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\stats\\character stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\character stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\stats\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stats\\enemystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\save and load\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\save and load\\savemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\entity fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity fx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1deadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1deadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\enemy_hedgehog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\enemy_hedgehog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\finalboss\\finalboss2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\finalboss\\finalboss2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\finalboss\\finalbossdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\finalboss\\finalbossdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\skeleton\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\finalboss\\finalboss2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\finalboss\\finalboss2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\skeleton\\skeletondeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\skeletondeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\finalboss\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\finalboss\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\skeleton\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\enemy_skeleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\skeleton\\enemy_skeletonanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\skeleton\\enemy_skeletonanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\interaction\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaction\\dialoguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\finalboss\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\finalboss\\bulletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\player\\playercounterattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercounterattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\ui\\ui_fadescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_fadescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\interaction\\npc script\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interaction\\npc script\\npc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\finalboss\\finalbossanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\finalboss\\finalbossanimationtriggers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\boss1\\boss1idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\boss1\\boss1idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\hedgehog\\hedgehogidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\hedgehog\\hedgehogidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\skeleton\\skeletonidlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,10 +197,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\finalboss\\finalbossattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\finalboss\\finalbossattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|E:\\Github\\CCIT-Project\\assets\\scripts\\enemy\\finalboss\\finalbossdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A1AB21F-434F-3887-D0A5-1B10DF91B39D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\finalboss\\finalbossdeadstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,32 +206,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HintUI.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\HintUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\HintUI.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\HintUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\HintUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BossManager.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\BossManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\BossManager.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\BossManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\BossManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T11:17:12.269Z",
+              "WhenOpened": "2026-03-29T11:15:48.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Boss1RoarState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1RoarState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1RoarState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1RoarState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1RoarState.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:20:53.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RoarEffect.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\RoarEffect.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\RoarEffect.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\RoarEffect.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\RoarEffect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Title": "Boss1BulletState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1BulletState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1BulletState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1BulletState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1BulletState.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T14:23:23.974Z",
+              "WhenOpened": "2026-03-30T06:09:32.371Z",
               "EditorCaption": ""
             },
             {
@@ -150,22 +255,9 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1Bullet.cs",
               "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1Bullet.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowB8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T13:15:45.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Boss1BattleState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1BattleState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1BattleState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1BattleState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1BattleState.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T10:08:57.922Z",
+              "WhenOpened": "2026-03-30T13:11:46.229Z",
               "EditorCaption": ""
             },
             {
@@ -184,206 +276,365 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BossManager.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\BossManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\BossManager.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\BossManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\BossManager.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAAjAAAAAAAAAA==",
+              "Title": "ChatUI.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\ChatUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\ChatUI.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\ChatUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\ChatUI.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T11:15:48.609Z",
+              "WhenOpened": "2026-03-29T11:16:24.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "RoarEffect.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\RoarEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\RoarEffect.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\RoarEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\RoarEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:23:23.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HintUI.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\HintUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\HintUI.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\HintUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\HintUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T11:17:12.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Boss1.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1.cs",
               "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAWwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwCsAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T09:57:17.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Boss1DeadState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1DeadState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1DeadState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1DeadState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1DeadState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T10:22:14.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Enemy.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Enemy.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Enemy.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAIA8wEoAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:10:30.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Boss1BattleState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1BattleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1BattleState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1BattleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1BattleState.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:08:57.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SignTrigger.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Interaction\\SignTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interaction\\SignTrigger.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Interaction\\SignTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interaction\\SignTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T04:12:15.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "start_game.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\GameUI\\gaming_start\\start_game.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameUI\\gaming_start\\start_game.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\GameUI\\gaming_start\\start_game.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameUI\\gaming_start\\start_game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:56:06.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Enemy_HedgehogAnimationTriggers.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
               "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_HedgehogAnimationTriggers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T11:15:12.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Boss1RoarState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1RoarState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1RoarState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1RoarState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1RoarState.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T10:20:53.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FinalBossAnimationTriggers.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAnimationTriggers.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAnimationTriggers.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAnimationTriggers.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAnimationTriggers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T10:24:58.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Enemy_SkeletonAnimationTriggers.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_SkeletonAnimationTriggers.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_SkeletonAnimationTriggers.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_SkeletonAnimationTriggers.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_SkeletonAnimationTriggers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T14:20:03.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Boss1IdleState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1IdleState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1IdleState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1IdleState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1IdleState.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAtAAAAAAAAAA==",
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Managers\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\AudioManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T10:13:13.126Z"
+              "WhenOpened": "2026-04-12T03:47:59.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Title": "HedgehogAttackState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogAttackState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T14:03:28.799Z"
+              "WhenOpened": "2026-04-12T04:06:51.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Managers\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LevelManager.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Managers\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\LevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T04:01:54.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PopUpText FX.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\PopUpText FX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PopUpText FX.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\PopUpText FX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PopUpText FX.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T09:17:18.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PlayerDeadState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerDeadState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerDeadState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerDeadState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerDeadState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:18:55.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UI_Volume Slider.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI_Volume Slider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_Volume Slider.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI_Volume Slider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_Volume Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T08:56:47.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "SafeZone.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\SafeZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\SafeZone.cs",
               "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\SafeZone.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\SafeZone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T12:20:05.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ChatUI.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\ChatUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\ChatUI.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\ChatUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\ChatUI.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBYAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "Character Stats.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\Character Stats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\Character Stats.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\Character Stats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\Character Stats.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAiwMwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T11:16:24.869Z"
+              "WhenOpened": "2026-04-04T13:16:21.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HedgehogIdleState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:59:17.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Player.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAiwFwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:43:04.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Enemy_Hedgehog.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
               "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\Enemy_Hedgehog.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T10:48:54.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
+              "Title": "Entity FX.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity FX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity FX.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity FX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity FX.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:12:07.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemyStats.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\EnemyStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Stats\\EnemyStats.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Stats\\EnemyStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Stats\\EnemyStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:14:00.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SaveManager.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Save and Load\\SaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Save and Load\\SaveManager.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Save and Load\\SaveManager.cs",
+              "RelativeToolTip": "Assets\\Save and Load\\SaveManager.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:15:39.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Boss1DeadState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1DeadState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1DeadState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1DeadState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1DeadState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:22:14.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "FinalBoss2.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBoss2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBoss2.cs",
               "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBoss2.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBoss2.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAowAwAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAASwFQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T10:24:43.649Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
+              "Title": "FinalBossDeadState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossDeadState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossDeadState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossDeadState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossDeadState.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:25:13.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Enemy_Skeleton.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAASwDcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:30:01.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAhwEMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:43:04.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Entity.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIAxwJUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:03:28.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "HedgehogDeadState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogDeadState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:12:04.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SkeletonDeadState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonDeadState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonDeadState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonDeadState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonDeadState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:31:12.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EnemyState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:31:41.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "Bullet.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FinalBoss\\Bullet.cs",
@@ -395,19 +646,151 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Enemy_Skeleton.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_Skeleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 35,
+              "Title": "Enemy_SkeletonAnimationTriggers.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_SkeletonAnimationTriggers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_SkeletonAnimationTriggers.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\Enemy_SkeletonAnimationTriggers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Skeleton\\Enemy_SkeletonAnimationTriggers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T10:30:01.435Z"
+              "WhenOpened": "2026-03-29T14:20:03.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 36,
+              "Title": "DialogueController.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Interaction\\DialogueController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interaction\\DialogueController.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Interaction\\DialogueController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interaction\\DialogueController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:03:40.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "sceneChanger.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\sceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\sceneChanger.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\sceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\sceneChanger.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:13:48.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BulletController.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\BulletController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FinalBoss\\BulletController.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\BulletController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FinalBoss\\BulletController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:45:09.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PlayerCounterAttackState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerCounterAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCounterAttackState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Player\\PlayerCounterAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCounterAttackState.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:13:28.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UI_FadeScreen.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI_FadeScreen.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_FadeScreen.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\UI\\UI_FadeScreen.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_FadeScreen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:17:24.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "NPC.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Interaction\\NPC Script\\NPC.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interaction\\NPC Script\\NPC.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Interaction\\NPC Script\\NPC.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interaction\\NPC Script\\NPC.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAAN0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:49:10.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PauseController.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\PauseController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseController.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\PauseController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAApwFMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T05:51:26.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Enemy.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIA8wEoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:10:30.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FinalBossAnimationTriggers.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAnimationTriggers.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAnimationTriggers.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAnimationTriggers.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAnimationTriggers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:24:58.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Boss1IdleState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Boss1\\Boss1IdleState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Boss1\\Boss1IdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Boss1\\Boss1IdleState.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:13:13.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HedgehogIdleState.cs",
+              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
+              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\Hedgehog\\HedgehogIdleState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T12:59:17.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "SkeletonIdleState.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\Skeleton\\SkeletonIdleState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\Skeleton\\SkeletonIdleState.cs",
@@ -419,7 +802,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 48,
               "Title": "FinalBossAttackState.cs",
               "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAttackState.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossAttackState.cs",
@@ -428,18 +811,6 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T10:24:58.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FinalBossDeadState.cs",
-              "DocumentMoniker": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossDeadState.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossDeadState.cs",
-              "ToolTip": "E:\\Github\\CCIT-Project\\Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossDeadState.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemy\\FinalBoss\\FinalBossDeadState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T10:25:13.425Z"
             }
           ]
         }
