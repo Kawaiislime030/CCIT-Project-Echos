@@ -40,11 +40,11 @@ MonoBehaviour:
     us ever did.
   - You're good to go, kid. Always remember... opportunities favor those who are
     prepared, and those who are brave enough to take the first step.
-  typingSpeed: 0.05
+  typingSpeed: 0.02
   voiceSound: {fileID: 0}
   voicePitch: 1
   endDialogueLines: 0000000000000000000000000001
-  autoProgressDelay: 2.5
+  autoProgressDelay: 2
   choices:
   - dialogueIndex: 0
     choices:

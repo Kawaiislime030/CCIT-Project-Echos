@@ -255,6 +255,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: NPC UI
       objectReference: {fileID: 0}
+    - target: {fileID: 5649895137567805211, guid: 16386aa1eb8d30346be942879cac1896, type: 3}
+      propertyPath: m_SortingOrder
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

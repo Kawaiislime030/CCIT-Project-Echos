@@ -34,11 +34,11 @@ MonoBehaviour:
   - You seem different. You actually do things.
   - Go. For the treasure, for the snakes, for whatever you believe in.
   - I'll think about what you said. Maybe it's time to stop waiting.
-  typingSpeed: 0.05
+  typingSpeed: 0.02
   voiceSound: {fileID: 0}
   voicePitch: 1
   endDialogueLines: 
-  autoProgressDelay: 1.5
+  autoProgressDelay: 2
   choices:
   - dialogueIndex: 1
     choices:
