@@ -28,7 +28,7 @@ public class BossBullet : MonoBehaviour
         if (_target != null)
         {
             // 對玩家造成傷害
-            _target.TakeDamage(20);
+            _target.TakeDamage(15);
             Debug.Log("Bullet hit player");
             Destroy(gameObject);
         }

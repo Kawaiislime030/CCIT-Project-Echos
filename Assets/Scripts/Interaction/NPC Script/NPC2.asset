@@ -13,21 +13,42 @@ MonoBehaviour:
   m_Name: NPC2
   m_EditorClassIdentifier: 
   dialogueLines:
-  - "I'm strong enough to push down a whole tree, but every time soldiers show up,
-    I just hide\u2026 I'm scared I'll turn into a monster."
-  - You are right... I never saw myself that way. Thanks.
-  - But my slime is sticky and gross. Everyone saw my slime run away. I hate it!
-  - Really? Then I will try it on soldiers' axes!
-  - The forest is so quiet. I just hear the wind and birds. Now hear axe noises.
-    I can't sleep.
-  - "Together? \u2026Okay. I trust you."
-  - The ancient tree tell me I was strong. But I always felt I wasn't enough.
-  - "Hmm\u2026 I'll go talk to them."
-  - If I'd stood up sooner, would the forest be okay now?
-  - "Yeah\u2026 starting today."
+  - Do not go forward, traveller...
+  - I used to live here, but since soldiers showed up, I just hide.
+  - I have warned them with my power. They just ignored...
+  - No matter what I do, they treat me like a weirdo... They're trying to kick me
+    out of the forest.
+  - I try so hard to protect the forest. Now they're destroying it...
+  - I'm losing confidence in what I did... Does my effort mean nothing at all?
+  - ...Maybe you're right. But it's hard to believe anymore.
+  - That's it... I'm leaving the forest as they wish.
+  - I'm sorry to the ancient tree... my power is not strong enough...
+  - Stay or leave? It doesn't matter to me now. I've lost hope for this forest.
+  - If you can stop them, go for it...
   typingSpeed: 0.03
   voiceSound: {fileID: 0}
   voicePitch: 1
   endDialogueLines: 
   autoProgressDelay: 1.5
-  choices: []
+  choices:
+  - dialogueIndex: 2
+    choices:
+    - Why don't you resist with force?
+    - You should talk to the soldiers peacefully.
+    - That's none of my business.
+    nextDialogueIndexes: 040000000400000004000000
+    choicePoints: 030000000400000001000000
+  - dialogueIndex: 5
+    choices:
+    - Your efforts are meaningful.
+    - At least you tried.
+    - One person can't protect the forest alone...
+    nextDialogueIndexes: 060000000600000006000000
+    choicePoints: 030000000200000000000000
+  - dialogueIndex: 8
+    choices:
+    - The forest needs you!
+    - Maybe there's been a misunderstanding. Let's talk to them.
+    - Changes are needed. Leave if you must.
+    nextDialogueIndexes: 090000000900000009000000
+    choicePoints: 040000000200000000000000
