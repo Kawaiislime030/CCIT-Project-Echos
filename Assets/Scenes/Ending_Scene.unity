@@ -177,7 +177,7 @@ MonoBehaviour:
   percentageText: {fileID: 203624486}
   rankText: {fileID: 2027067790}
   suggestionText: {fileID: 1488264194}
-  maxTotalPoints: 135
+  maxTotalPoints: 60
   animationDuration: 2
   typewriterSpeed: 0.05
   mainMenuBuildIndex: 0

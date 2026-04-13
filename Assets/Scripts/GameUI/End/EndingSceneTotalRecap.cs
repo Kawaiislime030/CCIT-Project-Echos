@@ -18,7 +18,7 @@ public class EndingSceneTotalRecap : MonoBehaviour
     public TMP_Text suggestionText;              // Shows suggestion
     
     [Header("Points Settings")]
-    public float maxTotalPoints = 135f;           // Maximum possible points
+    public float maxTotalPoints = 60f;           // Maximum possible points
     public float animationDuration = 2f;
     
     [Header("Typewriter Settings")]
@@ -50,7 +50,7 @@ public class EndingSceneTotalRecap : MonoBehaviour
     
     [Header("Messages")]
     [TextArea(3, 5)]
-    public string openingMessage = "Journey complete, Alice. \nYour total score: {0}/135. \n\nThis is your report. Let's look at your mental state and give some gentle opinion.";
+    public string openingMessage = "Journey complete, Alice. \nYour total score: {0}/60. \n\nThis is your report. Let's look at your mental state and give some gentle opinion.";
     [TextArea(3, 5)]
     public string thankYouMessage = "Your kingdom will grow and heal as you do.\n No matter your score, you have bravely completed this journey.\n\n\nGoodbye, Alice.";
     
